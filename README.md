@@ -1,2 +1,5 @@
-# proyecto_miguel
-pagina para miguel
+html, javascript, css, programacion basica de una pagina web
+
+html mas javascript = React
+
+React mas MaterialUI mi proyecto
